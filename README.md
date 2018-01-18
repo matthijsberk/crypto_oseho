@@ -1,2 +1,2 @@
-# crypto_oseho
+# cryptocurrencies compared with the OSEHO framework
 Dataset for comparing cryptocurrencies with OSEHO metrics
